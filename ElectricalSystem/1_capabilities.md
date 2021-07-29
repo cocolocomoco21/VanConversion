@@ -1,6 +1,6 @@
 # 1. Capabilities
 
-### Background
+### Overview
 The first step in completing an electrical system is understanding what you're trying to get out of it. This step requires a lot of thinking and planning! For me, luckily this step has a reasonably straightforward answer: I wanted to be able to live, work, and play out of the van and be able to be self-sufficient for up to ~3 days without a charge.
 
 To figure out how to build my system, let's look at what these mean for me. "Living" for me means being comfortable in moderation. For example, lights are required, but running water is a nice-to-have. I needed heat for winter and a fan for summer. A fridge could be nice, but a cooler with ice could also work. A van is a weird line between a home and camping, and refining these comfort vs. camping requirements for your own case naturally leads to a list of ideal vs. real capabilities, which helps create a capabilities list for your van.
@@ -34,7 +34,7 @@ By combining all of this planning together, I was able to define the requirement
 #### Charge source
 - Two 150W solar panels, providing a max <-TODO->W/<-TODO->A of charge per hour
 - Alternator/starter battery charging, up to 50A
-- AC charging (15A) into inverter 
+- AC charging (15A) into inverter. Not really required or used for me, but is a loose nice to have
 
 #### Loads
 I'll save the specifics of each load for separate posts, but I went with DC:
